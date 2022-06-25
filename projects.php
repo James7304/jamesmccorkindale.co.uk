@@ -68,7 +68,7 @@
             </svg>Synthesis</h2>
 
             <div class="row p-3" width="100%">
-                <i>Project development in progress</i>
+                <i>Project development in progress...</i>
                 <div class="col-8 d-flex justify-content-left">
                     Synthesis is a web app which enables the user to draw and visualise chemical structures and compounds,<br>
                     as well as draw reactions and mechanisms. It has an assortment of basic data sheets<br> 
