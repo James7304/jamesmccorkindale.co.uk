@@ -53,7 +53,7 @@
     <div class="row align-items-center">
 
         <div class="col d-flex justify-content-center">
-            <h1>Some Projects That I've Worked On...</h1>
+            <h1>Some Projects That I've Worked On!</h1>
         </div>
 
     </div>
