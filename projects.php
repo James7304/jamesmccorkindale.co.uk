@@ -65,6 +65,34 @@
             <h2 class="p-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
               <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
+            </svg>Synthesis</h2>
+
+            <div class="row p-3" width="100%">
+                <i>Project development in progress</i>
+                <div class="col-8 d-flex justify-content-left">
+                    Synthesis is a web app which enables the user to draw and visualise chemical structures and compounds,<br>
+                    as well as draw reactions and mechanisms. It has an assortment of basic data sheets<br> 
+                    that the user can view such as relationships and data on elements. <br>
+                    All documents can be easily exported in multiple raster image formats and as SVG.
+                </div>
+                <div class="col-4 d-flex justify-content-end">
+                    <i class="mt-auto">
+                        GitHub Repo: <a href="https://github.com/James7304/synthesis">Synthesis</a><br>
+                    </i>
+                </div>
+            </div>
+
+        </div>
+    
+    </div>
+
+    <div class="row align-items-center">
+
+        <div class="col bg-light" id="project-container">
+
+            <h2 class="p-3">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
+              <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
             </svg>DesignArk</h2>
 
             <div class="row p-3" width="100%">
