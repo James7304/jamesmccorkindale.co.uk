@@ -1,0 +1,55 @@
+
+<style>
+    .contact{
+        width:50%;
+    }
+</style>
+
+<section id="contactform-section" class="py-5 container" width="100%">
+
+    <div class="row align-items-center">
+
+        <div class="col d-flex justify-content-center">
+            <h1>Contact Me</h1>
+        </div>
+    
+    </div>
+    
+    <div class="row align-items-center">
+
+        <div id="contact-info" class="contact d-flex justify-content-center">
+
+            <p align="center">
+                If you have any questions, feel free to get in touch!<br>
+                Contact me via email, phone or fill in the online form and I will get back to you as soon as I can!<br><br>
+                <b>Phone: </b>07482 561740 <br>
+                <b>Email: </b>jamesmccorkindale0@gmail.com
+            </p>
+
+        </div>
+
+        <div id="contact-form" class="contact px-5 py-3">
+
+            <form method="post" action="./scripts/contactform.php">
+                <fieldset>
+                    <div class="form-group">
+
+                        <label for="nameInput" class="form-label mt-4">Full name</label>
+                        <input name="name" type="text" class="form-control" id="nameInput" placeholder="Enter full name">
+                        
+                        <label for="emailInput" class="form-label mt-4">Email address</label>
+                        <input name="email" type="email" class="form-control" id="emailInput" aria-describedby="emailHelp" placeholder="Enter email">
+
+                        <label for="messageInput" class="form-label mt-4">Message</label>
+                        <textarea name="message" class="form-control" id="messageInput" rows="4"></textarea>
+        
+                    </div><br>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </fieldset>
+            </form>
+
+        </div>
+    
+    </div>
+
+</section>

@@ -1,0 +1,51 @@
+
+.media-hidden{
+    display:none;
+}
+
+/* Header */
+
+@media only screen and (max-width: 1050px) {
+    #title, #get-in-touch, #download-cv {
+      display:none;
+    }
+}
+@media only screen and (max-width: 408px) {
+    #title{
+        width:100%;
+        text-align: center;
+    }
+    #hamburger {
+      margin:auto;
+    }
+}
+@media only screen and (max-width: 991px) {
+    #contact-form, #contact-info{
+        width:100%;
+    }
+}
+
+/* Home page (and contact form) */
+
+@media only screen and (max-width: 1200px) {
+    #profile {
+      height:259px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #title{
+        display:block;
+    }
+    #main-info, #profile {
+        width:100%;
+    }
+}
+
+/* Tutoring Page */
+
+@media only screen and (max-width: 1000px) {
+    #testimonials, #slideshow-dots{
+        width:100%;
+    }
+}

@@ -1,0 +1,15 @@
+
+#project-container{
+    border:2px;
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+
+    margin:20px;
+    transition: margin 0.5s ease;
+}
+
+#project-container:hover{
+    margin-left:0px;
+    margin-right:0px;
+}
