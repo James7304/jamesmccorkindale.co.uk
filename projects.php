@@ -130,6 +130,7 @@
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                     <i class="mt-auto">
+                        Website: <a href="https://design-ark.jamesmccorkindale.co.uk">design-ark</a><br>
                         GitHub Repo: <a href="https://github.com/James7304/design-ark">DesignArk</a><br>
                     </i>
                 </div>
