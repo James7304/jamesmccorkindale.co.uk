@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                     <i class="mt-auto">
-                        GitHub Repo: <a href="https://github.com/James7304/synthesis">Synthesis</a><br>
+                        GitHub Repo: <a href="https://github.com/James7304/synthesis" target="_blank">Synthesis</a><br>
                     </i>
                 </div>
             </div>
@@ -103,7 +103,7 @@
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                     <i class="mt-auto">
-                        GitHub Repo: <a href="https://github.com/James7304/jamesmccorkindale.co.uk">jamesmccorkindale.co.uk</a><br>
+                        GitHub Repo: <a href="https://github.com/James7304/jamesmccorkindale.co.uk" target="_blank">jamesmccorkindale.co.uk</a><br>
                     </i>
                 </div>
             </div>
@@ -130,8 +130,8 @@
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                     <i class="mt-auto">
-                        Website: <a href="https://design-ark.jamesmccorkindale.co.uk">design-ark</a><br>
-                        GitHub Repo: <a href="https://github.com/James7304/design-ark">DesignArk</a><br>
+                        Website: <a href="http://design-ark.jamesmccorkindale.co.uk" target="_blank">design-ark</a><br>
+                        GitHub Repo: <a href="https://github.com/James7304/design-ark" target="_blank">DesignArk</a><br>
                     </i>
                 </div>
             </div>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="col-4 d-flex justify-content-end">
                     <i class="mt-auto">
-                        GitHub Repo: <a href="https://github.com/James7304/MTG-Cards-eBay-Webscraper">MTG-Cards-eBay-Webscraper</a>
+                        GitHub Repo: <a href="https://github.com/James7304/MTG-Cards-eBay-Webscraper" target="_blank">MTG-Cards-eBay-Webscraper</a>
                     </i>
                 </div>
             </div>
