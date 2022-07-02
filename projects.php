@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>James McCorkindale | Projects</title>
+    <link rel="icon" href="./img/icon.png">
     
     <link rel="stylesheet" href="styles/media.css">
     <link rel="stylesheet" href="styles/projects.css">
@@ -50,7 +51,7 @@
 
 <section class="py-5 container" width="100%">
 
-    <div class="row align-items-center">
+    <div class="row align-items-center my-4">
 
         <div class="col d-flex justify-content-center">
             <h1>Some Projects That I've Worked On...</h1>
@@ -60,7 +61,7 @@
 
     <div class="row align-items-center">
 
-        <div class="col bg-light" id="project-container">
+        <div class="col bg-light project-container">
 
             <h2 class="p-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
@@ -88,7 +89,7 @@
 
     <div class="row align-items-center">
 
-        <div class="col bg-light" id="project-container">
+        <div class="col bg-light project-container">
 
             <h2 class="p-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
@@ -114,7 +115,7 @@
 
     <div class="row align-items-center">
 
-        <div class="col bg-light" id="project-container">
+        <div class="col bg-light project-container">
 
             <h2 class="p-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
@@ -142,7 +143,7 @@
 
     <div class="row align-items-center">
 
-        <div class="col bg-light" id="project-container">
+        <div class="col bg-light project-container">
             
         <h2 class="p-3"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
         <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
