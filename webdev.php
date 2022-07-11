@@ -127,7 +127,7 @@
 
     <section class="websites py-5" width="100%">
 
-        <h1 align="center">Websites I've Worked On</h1>
+        <h1 align="center">Websites I've Developed</h1>
 
         <div class="py-5 my-5 strip-grey">
 

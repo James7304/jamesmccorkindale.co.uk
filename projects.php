@@ -77,9 +77,6 @@
                     All documents can be easily exported in multiple raster image formats and as SVG.
                 </div>
                 <div class="col-4 d-flex justify-content-end">
-                    <i class="mt-auto">
-                        GitHub Repo: <a href="https://github.com/James7304/synthesis" target="_blank">Synthesis</a><br>
-                    </i>
                 </div>
             </div>
 
