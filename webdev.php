@@ -133,7 +133,7 @@
 
             <div class="prev-site mx-4">
 
-                <a href="http://barkker.xyz" target="_blank"><img class="my-2" src="./img/websites/barkker.png" width="232" height="132" alt="barkker"></a><br>
+                <a href="http://barkker.xyz" target="_blank"><img class="my-2" src="./img/Websites/barkker.png" width="232" height="132" alt="barkker"></a><br>
                 <a href="http://barkker.xyz" target="_blank">barkker.xyz</a><br>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" height="30" width="22.5" class="my-2 mx-1"><path fill="rgb(228,77,38)" d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" height="30" width="22.5" class="mx-1"><path fill="rgb(0,76,232)" d="M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3.1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2.1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z"/></svg>
@@ -143,7 +143,7 @@
             </div>
             <div class="prev-site mx-4">
 
-                <a href="https://vectorex.net" target="_blank"><img class="my-2" src="./img/websites/vectorex.png" width="232" height="132" alt="vectorex"></a><br>
+                <a href="https://vectorex.net" target="_blank"><img class="my-2" src="./img/Websites/vectorex.png" width="232" height="132" alt="vectorex"></a><br>
                 <a href="https://vectorex.net" target="_blank">vectorex.net</a><br>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" height="30" width="22.5" class="my-2 mx-1"><path fill="rgb(228,77,38)" d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" height="30" width="22.5" class="mx-1"><path fill="rgb(0,76,232)" d="M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3.1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2.1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z"/></svg>
