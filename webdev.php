@@ -160,7 +160,7 @@
         include './shared/footer.html';
     ?>
 
-    <script src="s./cripts/slide_in_animation.js"></script>
+    <script src="./scripts/slide_in_animation.js"></script>
     <script src="./scripts/hamburgerMenu.js"></script>
 
 </body>
