@@ -69,7 +69,7 @@
             </svg>Synthesis</h2>
 
             <div class="row p-3" width="100%">
-                <i>Initial deployment/release: 17/07/2022</i>
+                <i>Initial deployment/release: 16/07/2022</i>
                 <div class="col-8 d-flex justify-content-left">
                     Synthesis is a web app which enables the user to draw and visualise chemical structures and compounds,<br>
                     as well as draw reactions and mechanisms. It has an assortment of basic data sheets<br> 
@@ -97,7 +97,7 @@
             </svg>Vectorex</h2>
 
             <div class="row p-3" width="100%">
-                <i>Initial deployment/release: 17/07/2022</i>
+                <i>Initial deployment/release: 16/07/2022</i>
                 <div class="col-8 d-flex justify-content-left">
                     Vectorex is a selection of  tools and diagram makers,<br>
                     which are used on the web to allow you to design your ideas<br>
@@ -203,7 +203,7 @@
         <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
         </svg>MTG eBay Webscraper</h2>
 
-            <div class="row p-3 width="100%">
+            <div class="row p-3" width="100%">
                 <i>Completed: 15/08/2021</i>
                 <div class="col-8 d-flex justify-content-left">
                 A script that searches through eBay for Magic the Gathering cards, 
