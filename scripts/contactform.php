@@ -3,7 +3,7 @@
     ini_set( 'display_errors', 1 );
     error_reporting( E_ALL );
     $from = $_POST['email'];
-    $to = "jamesmccorkindale@jamesmccorkindale.co.uk";
+    $to = "jamesmccorkindale0@gmail.com";
     $subject = "Contact Form on Website";
     $message = "Name: " . $_POST['name'] . "\n\n" . "Message: " . $_POST['message'];
     $headers = "From:" . $from;

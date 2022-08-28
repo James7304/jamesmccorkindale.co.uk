@@ -65,16 +65,16 @@
             </p>
 
             <p>
-                I am currently in my 6th year at Douglas Academy, studying Advanced Higher Computer Science, Maths and Chemistry and I have accepted my offer to study computing science, next year, at the University of St Andrews.<br><br>
+                I am in my first year, studying computer science, at the University of St Andrews.<br><br>
 
                 I have a love for Computer Science and writing software. I am most familiar with C++, Python and HTML, CSS, Javascript and PHP.
-                I have worked on several different projects, of all varying sizes, ranging from Desktop applications to webscrapers.<br><br>
+                I have worked on a lot of different projects, of all varying sizes, ranging from desktop applications to javascript libraries.<br><br>
 
                 I am available to design and develop websites for individuals and small businesses. <br>
                 I always work closely with my clients to ensure that they are happy and pleased with the product.<br>
                 <b>Please click <a href="webdev.php">here</a> to find out more information about getting a website.</b> <br><br>
 
-                I also am available for maths tutoring, for National 4, National 5 and Higher levels. <br>
+                I also am available for maths tutoring, for National 3, National 4, National 5 and Higher levels. <br>
                 <b>Please click <a href="tutoring.php">here</a> to find out more information about my maths tutoring.</b>
             </p>
         </div>
