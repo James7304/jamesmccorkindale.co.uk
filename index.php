@@ -65,7 +65,7 @@
             </p>
 
             <p>
-                I am in my first year, studying computer science, at the University of St Andrews.<br><br>
+                I am currently in my first year, studying computer science, at the University of St Andrews.<br><br>
 
                 I have a love for Computer Science and writing software. I am most familiar with C++, Python and HTML, CSS, Javascript and PHP.
                 I have worked on a lot of different projects, of all varying sizes, ranging from desktop applications to javascript libraries.<br><br>
