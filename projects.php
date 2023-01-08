@@ -65,6 +65,32 @@
 
             <h2 class="p-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
+            <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
+            </svg>TutorYou</h2>
+
+            <div class="row p-3" width="100%">
+                <i>Initial deployment/release: 01/12/2022</i>
+                <div class="col-8 d-flex justify-content-left">
+                    I created the website for a tutoring agency, TutorYou, including the student, tutor and admin dashboards.<br>
+                    I also implemented Stripe as a payment processor to accept payments from clients and to payout employees.
+                </div>
+                <div class="col-4 d-flex justify-content-end">
+                    <i class="mt-auto">
+                        Website: <a href="https://tutor-you.co.uk" target="_blank">TutorYou</a><br>
+                    </i>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="row align-items-center">
+
+        <div class="col bg-light project-container">
+
+            <h2 class="p-3">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
               <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
             </svg>Pseudo</h2>
 
@@ -134,32 +160,6 @@
                 <div class="col-4 d-flex justify-content-end">
                     <i class="mt-auto">
                         Website: <a href="https://vectorex.net/synthesis" target="_blank">Synthesis</a><br>
-                    </i>
-                </div>
-            </div>
-
-        </div>
-    
-    </div>
-
-    <div class="row align-items-center">
-
-        <div class="col bg-light project-container">
-
-            <h2 class="p-3">
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-signpost-2" viewBox="0 0 16 16">
-              <path d="M7 1.414V2H2a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h5v1H2.5a1 1 0 0 0-.8.4L.725 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4H7v5h2v-5h5a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H9V6h4.5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.3 2.4a1 1 0 0 0-.8-.4H9v-.586a1 1 0 0 0-2 0zM13.5 3l.75 1-.75 1H2V3h11.5zm.5 5v2H2.5l-.75-1 .75-1H14z"/>
-            </svg>TutorYou</h2>
-
-            <div class="row p-3" width="100%">
-                <i>Initial deployment/release: 16/07/2022</i>
-                <div class="col-8 d-flex justify-content-left">
-                    I created the website for a tutoring agency, TutorYou, including the student, tutor and admin dashboards.<br>
-                    I also implemented Stripe as a payment processor to accept payments from clients and to payout employees.
-                </div>
-                <div class="col-4 d-flex justify-content-end">
-                    <i class="mt-auto">
-                        Website: <a href="https://tutor-you.co.uk" target="_blank">TutorYou</a><br>
                     </i>
                 </div>
             </div>
